@@ -1,2 +1,2 @@
 # Hogwarts
-New computer system for Hogwarts ye
+New computer system for Hogwarts ye ok
